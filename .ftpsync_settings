@@ -1,0 +1,1 @@
+{"connect":"SFTP","host":"apex.tools","port":"22","user":"root","pwd":"taisfuubru","savepwd":"checked","remoteRoot":"/var/www/alpha/","privateKeyFile":""}
